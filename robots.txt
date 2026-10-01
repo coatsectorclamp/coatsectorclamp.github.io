@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coatsectorclamp.github.io/sitemap.xml
